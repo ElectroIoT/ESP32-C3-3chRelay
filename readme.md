@@ -155,6 +155,10 @@ A big thank you to the following platforms for their amazing tools and support i
 - **[EasyEDA](https://easyeda.com/)** – for their powerful PCB design tools  
 - **[OSHWLab](https://oshwlab.com/)** – for hosting open-source hardware projects
 
+
+## 🙏 My Social Profile
+- **[OSHWLab Profile](https://oshwlab.com/manoranjan2050)** – List Of All My OSHWLab Projects
+
 Their platforms made this project possible and easy to share with the maker community ❤️
 
 ## 📬 License
