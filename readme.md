@@ -1,7 +1,7 @@
 # 🔌 ESP32-C3 SuperMini 3-Channel Smart Relay Board
 
-![PCB](assets/PCB.JPG)
-![3D](assets/PCB_3D.JPG)
+![PCB](Image/PCB.JPG)
+![3D](Image/PCB_3D.JPG)
 
 ---
 
@@ -44,7 +44,7 @@ This DIY project is a **3-channel relay module** based on the **ESP32-C3 SuperMi
 ## ⚙️ Schematic Design
 
 📷 *Schematic Preview:*  
-![Schematic](assets/Schematic_ESP32-C3-SUPERMini-3ch-relay.png)
+![Schematic](Image/Schematic.png)
 
 ### 🧾 Includes:
 
