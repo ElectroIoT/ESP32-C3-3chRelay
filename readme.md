@@ -135,15 +135,34 @@ Configure them in Tasmota's Web UI.
 - 🌐 **Website**: [https://electroiot.in](https://electroiot.in)  
 - 📧 **Contact**: electroiot@hotmail.com  
 
+Stay tuned on our channel:
+- [YouTube - ElectroIoT](https://www.youtube.com/ElectroIoT)
+
+## 🌐 More Projects
+
+- Website: [https://electroiot.in](https://electroiot.in)
+- GitHub: [ElectroIoT](https://github.com/ElectroIoT)
+
 ---
 
-## 🙌 Credits
+## 🙏 Special Thanks
 
-Designed with ❤️ by **ElectroIOT**  
-Made to empower DIYers and smart home enthusiasts
+A big thank you to the following platforms for their amazing tools and support in designing this open-source hardware project:
+
+<p align="center">
+  <img src="Image/EasyEDA.png" alt="EasyEDA Logo" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Image/OSHWLab.png" alt="OSHWLab Logo" width="100"/>
+</p>
+
+- **[EasyEDA](https://easyeda.com/)** – for their powerful PCB design tools  
+- **[OSHWLab](https://oshwlab.com/)** – for hosting open-source hardware projects
+
+Their platforms made this project possible and easy to share with the maker community ❤️
+
+## 📬 License
+
+Open Source Hardware — OSHWA Certified
 
 ---
 
-> ✨ Ready to automate your home? Flash it. Configure it. Control it.  
-> 💬 Need help or want to share your build? Open an issue or contact us!
-
+Happy Making! 💡
