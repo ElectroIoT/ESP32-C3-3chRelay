@@ -128,12 +128,10 @@ Configure them in Tasmota's Web UI.
 - ✅ Add a **fuse** or varistor for additional safety
 
 ---
+## 🙌 Credits
 
-## 📁 Project Resources
-
-- 🔗 **GitHub Repository**: [ESP32-C3 3CH Relay PCB](https://github.com/your-repo-url)  
-- 🌐 **Website**: [https://electroiot.in](https://electroiot.in)  
-- 📧 **Contact**: electroiot@hotmail.com  
+Designed with ❤️ by **ElectroIOT**  
+Made to empower DIYers and smart home enthusiasts
 
 Stay tuned on our channel:
 - [YouTube - ElectroIoT](https://www.youtube.com/ElectroIoT)
@@ -150,7 +148,7 @@ Stay tuned on our channel:
 A big thank you to the following platforms for their amazing tools and support in designing this open-source hardware project:
 
 <p align="center">
-  <img src="Image/EasyEDA.png" alt="EasyEDA Logo" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Image/EasyEDA.png" alt="EasyEDA Logo" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Image/OSHWLab.png" alt="OSHWLab Logo" width="100"/>
 </p>
 
